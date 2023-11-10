@@ -8,6 +8,8 @@ namespace GitHubBranchDemo
 {
     internal interface ICheckOut
     {
-        public void CheckOut();
+        public void CheckOutBook();
+        public void ReturnBook();
+
     }
 }
