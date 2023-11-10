@@ -1,8 +1,7 @@
 namespace GitHubBranchDemo;
 
-public abstract class EBook
-{ 
-    public abstract string Lalala();
+public void class EBook
+{
     public void Test()
     {
         Console.WriteLine();
