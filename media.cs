@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubBranchDemo
 {
-    internal class media
+    internal class Media
     {
+        
     }
+
 }
